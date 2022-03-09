@@ -1,0 +1,9 @@
+[
+    {"id": 101, "nombre": "Pastel Chocolate","desc": "Pastel con bizcocho, relleno y cobertura de chocolate", "precio": 7990, "img": "/assets/producto1.jpg", "cantidad":1},
+    {"id": 102, "nombre": "Pastel Frutos del bosque","desc": "Pastel con berries y sabor a frutos del bosque", "precio": 7990, "img": "/assets/producto2.jpg", "cantidad":1},
+    {"id": 103, "nombre": "Pastel Cheesecake","desc": "Pastel de cheesecake sabor maracuya", "precio": 6990, "img": "/assets/producto3.jpg", "cantidad":1},
+    {"id": 104, "nombre": "Pastel Yogurt","desc": "Pastel con bizcocho, y relleno de Yogurt", "precio": 5990, "img": "/assets/producto4.jpg", "cantidad":1},
+    {"id": 105, "nombre": "Pan Baguette","desc": "Pan Baguette receta original", "precio": 1500, "img": "./assets/bread1.jpg", "cantidad":1},
+    {"id": 106, "nombre": "Pan Toscano","desc": "Pan Toscano receta original", "precio": 1700, "img": "./assets/bread2.jpg", "cantidad":1}
+
+]
